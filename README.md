@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there, I´m Mauricio👋
+I´m a student from software engineering I like to learn different programming lenguages like Java, C++, Python and Javascript
+##Projects for the moment:
+-[heart with NextParticle.js in Javascript]
+-[chemistry classroom inventory]
 
-<!--
-**Macirio2006/macirio2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##technologies that I use:
+-Python
+-JavaScript
+-HTML/CSS
+-SQL
+-WebGL
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Thank you for visit my profile and I hope you like it 
